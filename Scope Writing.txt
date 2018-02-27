@@ -1,0 +1,5 @@
+Goal:
+Goal of this project is to predict consumer demand(sales) from the narratives embedded in product descriptions and identifying what linguistic aspects of product descriptions are the most important determinants of success.
+Scope Writing:
+The Predicting Sales system (PSS) for predicting sales from the language of product description is designed to predict consumer demand from the narratives embedded in product descriptions.
+An e-commerce vendor can input description of the product into the system, our system uses novel neural network architecture to build models and graphs that can explain how the textual content of product descriptions impacts sales. Our system is learning from a database of an e-commerce website. A vendor can query to see a list of entered products in the system and their corresponding sales graph.
